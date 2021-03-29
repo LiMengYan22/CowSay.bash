@@ -1,5 +1,5 @@
 # COWSAY
-Saca el testo en Bash de TERMUX..
+Saca el texto en *Bash* de TERMUX..
 
 ```
 
